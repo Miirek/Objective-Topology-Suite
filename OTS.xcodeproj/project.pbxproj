@@ -494,6 +494,7 @@
 		AA747D9E0F9514B9006C5449 /* OTS_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OTS_Prefix.pch; sourceTree = SOURCE_ROOT; };
 		AACBBE490F95108600F1A2B1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D2AAC07E0554694100DB518D /* libOTS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libOTS.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		EB65CCDB153F072000C3A17C /* README.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.markdown; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -528,6 +529,7 @@
 		0867D691FE84028FC02AAC07 /* OTS */ = {
 			isa = PBXGroup;
 			children = (
+				EB65CCDB153F072000C3A17C /* README.markdown */,
 				A9CF9AA31140A3FA00B3B675 /* Headers */,
 				08FB77AEFE84172EC02AAC07 /* Classes */,
 				32C88DFF0371C24200C91783 /* Other Sources */,
